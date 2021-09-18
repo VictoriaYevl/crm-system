@@ -1,11 +1,7 @@
-## Последовательность действий по запуску проекта
-1. Скачайте c [официального сайта] (https://www.python.org/downloads/) и установите интерпретатор ** Python **.
-2. Скачайте и установите инструмент для работы с пакетами [Git Bash] (https://git-scm.com/downloads)
-3. Скачайте архив с [файлами проекта] (https://github.com/mikh-maksi/python-project).
-4. Извлеките скачанный архив (нажмите правой кнопкой на скачанный файл и выберите "витягуты все" / "извлечь все").
-5. Перейдите в папку python-project, которая была создана при разархивации.
-6. Нажмите правой клавишей мыши на свободном пространстве папки и выберите пункт меню "Git Bash Here".
-7. В появившемся окне введите`pip install -U Flask`- будет установлен модуль Flask
-8. Далее выполните команду `pip install -r requirements.txt` - будут установлены остальные модули, необходимые для работы проекта.
-9. Запустите (сделайте двойной щелчок на файле `answer.py`)
-10. Введите в адресной строке браузера [http://localhost:5050] (http://localhost:5050)
+1. Download and install (https://www.python.org/downloads/) ** Python **.
+2. Download and install [Git Bash] (https://git-scm.com/downloads)
+3. Open "Git Bash Here".
+4. write in GIT Bash `pip install -U Flask`- it will install Flask
+5. write `pip install -r requirements.txt` - othet modules we need for ptoject.
+6. Run `answer.py`
+7. Go to [http://localhost:5050] in web-browser
